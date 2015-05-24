@@ -4,6 +4,7 @@ The Witcher 3 - Wild Hunt; Bundle file repacker.
 Added on 2015-05-24.
 
 EXPERIMENTAL; USE AT YOUR OWN RISK. Make backups of everything you modify.
+This is a proof of concept. I suspect it works because the game doesn't look too closely at checksums and whatnots.
 
 Since the preload version of the game was avaible for download about a week before the game was fully available, there's been a MexScript (`.bms` extension) avalible to extract the `.bundle` and `.cache` files used by the game.
 
